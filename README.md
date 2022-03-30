@@ -8,10 +8,11 @@ The complexity arises due to the fact that the dataset has fewer samples, & is h
 Here In this project, I have used classification algorithms for making prediction from 3 to 8.
 
 The data table have following features and target classes:
-1.fixed acidity
-2.volatile acidity
-3.citric acid
-4.residual sugar
+
+    1.fixed acidity
+    2.volatile acidity
+    3.citric acid
+    4.residual sugar
 5.chlorides
 6.free sulfur dioxide
 7.total sulfur dioxide
